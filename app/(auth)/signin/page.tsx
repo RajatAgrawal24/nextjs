@@ -1,4 +1,4 @@
-import SignInComponent from "../../components/SignInComponent";
+import SignInComponent from "../../components/Signin";
 
 export default function SignIn() {
     return <div>
